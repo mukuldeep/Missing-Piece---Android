@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Missing Piece</string>
+    <string name="title_challenge">Challenge</string>
+    <string name="title_profile">Profile</string>
+    <string name="title_home">Home</string>
+    <string name="title_winners">Winners</string>
+    <string name="name">Name</string>
+    <string name="share_text">Share your referral link to your friends. when they enters it, both of you will get blank pieces.</string>
+</resources>

@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "653600417214",
+    "firebase_url": "https://missing-piece-6088e.firebaseio.com",
+    "project_id": "missing-piece-6088e",
+    "storage_bucket": "missing-piece-6088e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:653600417214:android:778427be8f5f4f500c85ef",
+        "android_client_info": {
+          "package_name": "com.raabnits.missingpiece"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "653600417214-e5pffsnlbrnqdrc31io70d0j40cjdflp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANpXhPion24NutP2SNayYI1dNbZxbIMJY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "653600417214-e5pffsnlbrnqdrc31io70d0j40cjdflp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

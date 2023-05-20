@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/golden">
+<RelativeLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:padding="20dp"
+    android:layout_margin="3dp"
+    android:background="@color/black">
+    <ImageView
+        android:id="@+id/logo_reward"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:scaleX="3"
+        android:scaleY="3"
+        android:padding="30dp"
+        android:src="@drawable/ic_baseline_extension_24"/>
+    <TextView
+        android:id="@+id/dialog_title"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="10dp"
+        android:textSize="20dp"
+        android:textStyle="bold"
+        android:layout_below="@+id/logo_reward"
+        android:textColor="@color/golden"
+        android:gravity="center_horizontal"
+        android:background="@color/golden.4"
+        android:text="sample title"/>
+    <TextView
+        android:id="@+id/dialog_info"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="1dp"
+        android:gravity="center_horizontal"
+        android:textColor="@color/golden.9"
+        android:text="sample dialog text"
+        android:layout_below="@+id/dialog_title"/>
+</RelativeLayout>
+</RelativeLayout>
